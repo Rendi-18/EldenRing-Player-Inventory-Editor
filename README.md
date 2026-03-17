@@ -1,10 +1,5 @@
-# 🎮 Elden Ring Trainer - Visual Edition
+# 🎮 Elden Ring Trainer
 
-A standalone visual trainer interface for Elden Ring: Shadow of the Erdtree, built with C++20 and Dear ImGui.
-
-> **⚠️ IMPORTANT:** This is a **visual-only demonstration** project. It does NOT interact with game processes, does NOT read/write memory, and does NOT provide actual trainer functionality. All options only change UI states in the application's memory.
-
-> **🛡️ ANTIVIRUS WARNING:** Some antivirus programs may flag this application as suspicious due to overlay window features and lack of digital signature. This is a **false positive**. The source code is fully open and auditable. See [ANTIVIRUS-INFO.md](ANTIVIRUS-INFO.md) for details and solutions.
 
 ## 📸 Features
 
