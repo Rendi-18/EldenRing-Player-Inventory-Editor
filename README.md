@@ -134,17 +134,6 @@ elden-ring-trainer-visual/
     ├── imgui_impl_win32.cpp
     └── ...
 ```
-
-## ⚠️ Legal Notice
-
-This is an **educational demonstration project only**. It does not:
-- ❌ Interact with any game processes
-- ❌ Read or write game memory
-- ❌ Modify game files or behavior
-- ❌ Provide actual cheating functionality
-
-All UI elements are purely visual and only store states in the application's own memory.
-
 **Use responsibly and respect game developers' terms of service.**
 
 ## 📜 License
