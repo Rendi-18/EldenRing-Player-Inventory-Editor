@@ -2,7 +2,9 @@
 
 **Updated: March 17, 2026**
 
-![Elden Ring Shadow Visual Menu Screenshot](https://via.placeholder.com/800x450/0f0f0f/4a90e2?text=Elden+Ring+Player+and+Inventory+Editor+Preview)  
+![Elden Ring Shadow Visual Menu Screenshot](<img width="431" height="704" alt="image" src="https://github.com/user-attachments/assets/95abee18-9330-41b0-863d-608e644d8d47" />
+) (<img width="420" height="698" alt="image" src="https://github.com/user-attachments/assets/3703a7eb-2eae-4850-9ede-e25f990b1aee" />)
+ 
 *(Dark ImGui UI • Standalone overlay • No injection • INSERT to toggle)*
 
 **Powerful standalone external editor interface for Elden Ring + Shadow of the Erdtree**
