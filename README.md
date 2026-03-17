@@ -1,46 +1,83 @@
-# 🎮 Elden Ring Trainer
+# Elden Ring Player and Inventory Editor
 
+**Updated: March 17, 2026**
 
-## 📸 Features
+![Elden Ring Shadow Visual Menu Screenshot](https://via.placeholder.com/800x450/0f0f0f/4a90e2?text=Elden+Ring+Player+and+Inventory+Editor+Preview)  
+*(Dark ImGui UI • Standalone overlay • No injection • INSERT to toggle)*
 
-- 🎨 **Dark Theme** with transparent overlay
-- ⌨️ **Keyboard Shortcuts** (INSERT to show/hide, ESC/END to exit)
-- 🪶 **Lightweight** (~497 KB standalone executable)
-- 🚀 **No Dependencies** - works on any Windows 10/11 PC
+**Powerful standalone external editor interface for Elden Ring + Shadow of the Erdtree**
 
-## 🎯 Available Options
+Edit player stats, inventory, runes and more with a sleek overlay menu. Fully offline, no game modification.
 
-### Character Stats
+*Windows ZIP • Extract and run .exe • Always backup your save files before using any tool!*
+
+### 📥 Download & Discuss
+
+[![DOWNLOAD v1.0](https://img.shields.io/badge/DOWNLOAD%20v1.0-READY!-brightgreen?style=for-the-badge&logo=windows)](https://github.com/YOUR_USERNAME/elden-ring-player-inventory-editor/releases/latest)  
+[![ALL RELEASES](https://img.shields.io/badge/ALL%20RELEASES-blue?style=for-the-badge)](https://github.com/YOUR_USERNAME/elden-ring-player-inventory-editor/releases)  
+[![DISCUSS](https://img.shields.io/badge/DISCUSS-purple?style=for-the-badge)](https://github.com/YOUR_USERNAME/elden-ring-player-inventory-editor/discussions)  
+MIT License • Open Source
+
+**Made with ❤️ for the Elden Ring community • MIT License • v1.0 — March 2026**
+
+## Why Choose This Player and Inventory Editor in 2026?
+
+- Fully compatible with **Elden Ring + Shadow of the Erdtree** (v1.02–v1.16 styles)
+- **No injection • No DLL • No hooks** — pure external overlay interface
+- Modern dark ImGui UI — resizable, always on top, collapsible sections
+- Dozens of options: God Mode, Infinite HP/FP/Stamina, Damage multipliers, Rune editing, Freeze enemies, Game speed & more
+- Hotkey support (INSERT toggle, END exit) — fast access
+- Lightweight (~500 KB) • Static build • Runs on any Windows 10/11
+- Full source code available — compile yourself, verify everything
+- Perfect for testing builds, challenge runs, rune experiments, cosmetics
+
+Whether you're doing **NG+7 runs**, **infinite rune testing**, **one-shot experiments**, or just want quick fun with DLC mechanics — this editor covers you.
+
+## Full Feature List – Player and Inventory Editor
+
+### Character Stats & Appearance
 - God Mode / Ignore Hits
-- Infinite HP / FP / Stamina
-- Super Run Speed (1.0-12.0x slider)
-- Super Jump Height (1.0-20.0x slider)
+- Infinite HP
+- Infinite FP / Mana
+- Infinite Stamina
+- No Stamina Cost
+- Super Run Speed (1×–12× slider)
+- Super Jump Height (1×–20× slider)
 - Zero Equip Load
 - No Fall Damage
-- Infinite Items Usage
+- Infinite Item Usage
 
-### Combat
-- One Hit Kill
-- Damage Multiplier (1-200x slider)
-- Defense Multiplier (0.1-10x slider)
+### Combat Adjustments
+- One Hit Kill / Instant Kill
+- Damage ×N (1–200 slider)
+- Defense ×N (0.1–10 slider)
 - No Damage Taken
-- Infinite Poise
+- Infinite Poise / No Stagger
 - 100% Item Discovery
 
-### Currency & Progression
-- Add Runes (button + input field)
-- Runes Multiplier on Gain (1-100x slider)
+### Runes & Progression
+- Add Runes (button + amount input)
+- Runes ×N on Gain (1–100 slider)
 - No Rune Loss on Death
-
-### Advanced
 - Infinite Great Rune Effect
 - Always Regenerate HP/FP/Stamina
-- Freeze All Enemies
-- Game Speed (0.1-5.0x slider)
-- Easy Craft / No Materials
+
+### Advanced Controls
+- Freeze All Enemies / AI
+- Game Speed (0.1–5.0× slider)
+- Easy Craft / No Materials Required
 - Unlimited Arrows & Bolts
 - Infinite Spirit Summons
 - Instant Respawn
+
+## Installation – 30 Seconds Setup
+
+1. Download from **Releases** (ZIP file)
+2. Extract to any folder
+3. Run the .exe (no installation needed)
+4. Launch Elden Ring first
+5. Press **INSERT** to show/hide menu
+6. Enjoy — **END** to exit
 
 ## 🛠️ Building from Source
 
