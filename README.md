@@ -8,7 +8,6 @@ A standalone visual trainer interface for Elden Ring: Shadow of the Erdtree, bui
 
 ## 📸 Features
 
-- ✨ **30+ Options** styled like FLiNG trainers
 - 🎨 **Dark Theme** with transparent overlay
 - ⌨️ **Keyboard Shortcuts** (INSERT to show/hide, ESC/END to exit)
 - 🪶 **Lightweight** (~497 KB standalone executable)
