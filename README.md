@@ -25,14 +25,7 @@
 
   <p align="center">
     <em>MIT License • Open Source</em>
-  </p>
-</div>  
-<p align="center">
-  <a href="https://vgtimes.ru/games/elden-ring/files/93022-elden-ring-player-and-inventory-editor.html" target="_blank">
-    <img src="https://img.shields.io/badge/VGTimes-Посетить_страницу-007bff?style=for-the-badge&logoColor=white&logo=read-the-docs&labelColor=0d1117" alt="VGtimes">
-  </a>
-</p>
-MIT License • Open Source
+
 
 **Updated: March 17, 2026**
 
