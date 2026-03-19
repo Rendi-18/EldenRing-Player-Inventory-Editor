@@ -6,7 +6,7 @@
 [![ALL RELEASES](https://img.shields.io/badge/ALL%20RELEASES-blue?style=for-the-badge)](https://github.com/Rendi-18/EldenRing-Player-Inventory-Editor/releases/tag/elden-ring)   
 <p align="center">
   <a href="https://vgtimes.ru/games/elden-ring/files/93022-elden-ring-player-and-inventory-editor.html" target="_blank">
-    <img src="https://img.shields.io/badge/DOWNLOAD%20V1.0-READY!-gradient?style=for-the-badge&logo=git&color=0f0f0f,28a745&logoColor=white&labelColor=000000">
+    <img src="https://img.shields.io/badge/VGTimes-Посетить_страницу-007bff?style=for-the-badge&logoColor=white&logo=read-the-docs&labelColor=0d1117" alt="VGtimes">
   </a>
 </p>
 MIT License • Open Source
