@@ -2,8 +2,31 @@
 
 ### 📥 Download & Discuss
 
-[![DOWNLOAD v1.0](https://img.shields.io/badge/DOWNLOAD%20v1.0-READY!-brightgreen?style=for-the-badge&logo=windows)](https://github.com/Rendi-18/EldenRing-Player-Inventory-Editor/releases/download/elden-ring/ShadowTrainerVisual.zip)  
-[![ALL RELEASES](https://img.shields.io/badge/ALL%20RELEASES-blue?style=for-the-badge)](https://github.com/Rendi-18/EldenRing-Player-Inventory-Editor/releases/tag/elden-ring)   
+<div align="center">
+  <h3>Download & Discuss</h3>
+  
+  <p align="center">
+    <a href="твоя_ссылка_на_скачивание_или_пост">
+      <img src="https://img.shields.io/badge/DOWNLOAD%20V1.0-READY!-28a745?style=for-the-badge&logoColor=white&logo=git&labelColor=333" alt="Download V1.0 READY!">
+    </a>
+  </p>
+
+  <p align="center">
+    <a href="ссылка_на_все_релизы">
+      <img src="https://img.shields.io/badge/ALL%20RELEASES-007bff?style=for-the-badge&logo=github&logoColor=white&labelColor=222" alt="All Releases">
+    </a>
+  </p>
+
+  <p align="center" style="margin: 20px 0;">
+    <a href="https://vgtimes.ru/games/elden-ring/files/93022-elden-ring-player-and-inventory-editor.html" target="_blank">
+      <img src="https://img.shields.io/badge/VGTIMES-Посетить%20страницу-ed1c24?style=for-the-badge&logoColor=white&logo=read-the-docs&labelColor=111111" alt="VGTIMES Посетить страницу">
+    </a>
+  </p>
+
+  <p align="center">
+    <em>MIT License • Open Source</em>
+  </p>
+</div>  
 <p align="center">
   <a href="https://vgtimes.ru/games/elden-ring/files/93022-elden-ring-player-and-inventory-editor.html" target="_blank">
     <img src="https://img.shields.io/badge/VGTimes-Посетить_страницу-007bff?style=for-the-badge&logoColor=white&logo=read-the-docs&labelColor=0d1117" alt="VGtimes">
